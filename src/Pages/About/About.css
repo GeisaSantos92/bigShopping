@@ -1,0 +1,21 @@
+.container-about .banner{
+ 
+        background: #e8d9e8;
+      
+}
+
+.txt-about{
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    margin: 15px;
+}
+
+.txt-about h1{
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+
+.txt-about p{
+   color: #4a4747;
+}
+

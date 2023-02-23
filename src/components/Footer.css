@@ -1,0 +1,49 @@
+footer{
+    margin-top: 5rem;
+    margin-bottom: 2rem;
+}
+
+.container-footer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.footer{
+    display: flex;
+    flex-direction: column;   
+}
+
+.footer a{
+    color: #4a4949;
+    text-decoration: none;
+}
+
+footer hr{
+    max-width: 1440px;
+    margin: auto;
+    margin-bottom: 2rem;
+}
+
+.social-midias{
+    display: flex;
+    gap: 10px;
+    margin-top: 5px;
+}
+
+.credit-cards{
+    margin-top: 5px;
+}
+
+@media(max-width: 767px){
+    .container-footer{
+        flex-direction: column;
+        justify-content: center;
+        gap: 2rem;
+        align-items: center;
+        text-align: center;
+    }
+    .social-midias{
+      justify-content: center;;
+    }
+}
