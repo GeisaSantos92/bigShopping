@@ -11,5 +11,5 @@ das páginas internas eu utilizei as rotas do React Router.
 Quando clicamos na imagem do produto, é aberto um modal com a descrição do produto e outro carrinho caso queira comprar pelo modal. 
 - O projeto ficou responsivo, se adequando a todas as telas.
 
-Link: https://bigshopping.pages.dev/
+Link: https://bigshoppingg.pages.dev/
 

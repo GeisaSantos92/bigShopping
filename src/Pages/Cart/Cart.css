@@ -18,6 +18,11 @@
     
   }
   
+
+  .cart{
+    min-height: 70vh;
+  }
+  
   .cartItem img {
     width: 200px;
   }
